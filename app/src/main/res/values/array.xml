@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="test">
+        <item>개</item>
+        <item>ml</item>
+        <item>g</item>
+    </string-array>
+</resources>
